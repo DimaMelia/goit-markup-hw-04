@@ -1,0 +1,17 @@
+icon-astronaut
+icon-clock
+icon-diagram
+icon-facebook
+i
+con-instagram
+icon-linkedin
+icon-logo1
+icon-logo2
+icon-logo3
+icon-logo4
+icon-logo5
+icon-logo6
+icon-mail
+icon-plate
+icon-tel
+icon-twitter
